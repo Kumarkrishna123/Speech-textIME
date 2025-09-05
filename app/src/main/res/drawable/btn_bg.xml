@@ -1,0 +1,7 @@
+<!-- res/drawable/btn_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <corners android:radius="24dp" />
+
+    <stroke android:color="#85848B" android:width="1dp" />
+
+</shape>
